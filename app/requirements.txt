@@ -1,0 +1,15 @@
+pandas
+dash_bootstrap_components
+dash
+plotly
+numpy
+statsmodels
+dash-auth
+dash_labs
+Flask-Login
+python-dotenv
+ldap3
+sqlalchemy
+flask-sqlalchemy
+werkzeug
+configparser
